@@ -9,8 +9,7 @@ Since I'm using Windows AHK seemed like the simplest option TBH, so I'm going wi
 Hey, I'm guessing this isn't the only keyboard with an issue like this, especially in the cheaper mechanical categories. This script should run no matter the keyboard you are using so have fun!
 
 # How to use
-1. Go to Releases
-2. Download latest
+1. Download latest
 3. Run setup.bat
 4. Use the menu key/FN2 on K630 to toggle FN1 permanently
 5. Use the damn keeb!
